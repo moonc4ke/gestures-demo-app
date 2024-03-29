@@ -5,7 +5,7 @@
   "main": "gestures.js",
   "scripts": {
     "bundle": "npx webpack --mode production",
-    "start": "npx http-server -p 3001"
+    "start": "npx http-server"
   },
   "keywords": [],
   "author": "",
